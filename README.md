@@ -727,6 +727,6 @@ services:
       - MONGO_INITDB_ROOT_PASSWORD=root
 ```
 # Imagenes
-![conexion_imdb](./images/conexion_imdb.png)
-![conexion_netflix](./images/conexion_netflix.png)
-![mongodb_data](./images/mongodb_data.png)
+![conexion_imdb](./api/images/conexion_imdb.png)
+![conexion_netflix](./api/images/conexion_netflix.png)
+![mongodb_data](./api/images/mongodb_data.png)
