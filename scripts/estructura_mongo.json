@@ -1,0 +1,20 @@
+{
+	_id: <ObjectId>,
+	parentId: <ObjectId>,
+	name: <String>,
+	primaryTitle: <String>,
+	originalTitle: <String>,
+	characteristics: {
+		isAdult: <Int>,
+		startYear: <Int>,
+		endYear: <Int>,
+		runtime: <Int>,
+		type: <String>,
+		genre: <String>,
+		director: <String>
+	},
+	rating: {
+		averageRating: <Float>,
+		numVotes: <Int>
+	}
+}
